@@ -1,12 +1,11 @@
 import React from 'react'
 import Navbar from './component/Navbar'
-import Player from './component/Player'
-import SongView from './component/SongView'
+import Api from './component/Api'
 function page() {
   return <>
   <Navbar></Navbar>
-  <SongView></SongView>
-  <Player></Player>
+
+  <Api></Api>
   </>
 }
 

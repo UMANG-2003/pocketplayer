@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <div>
           <div className='flex justify-between items-center px-5 py-4'>
-            <div className="logo font-mono font-bold text-lg text-black">
+            <div className="logo font-mono font-bold text-lg ">
                 POCKET PLAYER
             </div>
 
