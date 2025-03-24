@@ -4,7 +4,6 @@ import Api from './component/Api'
 function page() {
   return <>
   <Navbar></Navbar>
-
   <Api></Api>
   </>
 }
